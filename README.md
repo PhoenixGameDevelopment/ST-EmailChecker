@@ -17,8 +17,10 @@ Download the code.
 
 You should have two folders:
 
-emailcheckerserver_git
+emailcheckerserver_git  
 emailcheckerclient_git
+
+Place BOTH of these folders in your SillyTavern/data/default-user/extensions/ directory.
 
 Open the folder "emailcheckerserver_git".
 
