@@ -1,0 +1,7 @@
+{
+    "name": "Email Checker Client",
+    "type": "commonjs",
+    "private": true,
+    "dependencies": {
+    }
+}
